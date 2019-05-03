@@ -13,7 +13,7 @@ GTSSUG Academy es una iniciativa (_**sin fines de lucro**_) orientada a impartir
 El único requisito es cubrir una hora de contenido, considerando que el nivel didáctico debe ser principiante \ medio dado
 que esta iniciativa esta orientada a estudiantes de ultimo año de la carrera en informática o afín.
 
-Si quieren formar parte de esta iniciativa, como voluntarios o conferencistas por favor registren su idea \ sesión en el siguiente [formulario](http://eepurl.com/gpYBcL). La fecha limite para ingresar su propuesta es **10 de Mayo**.
+Si quieren formar parte de esta iniciativa, como voluntarios o conferencistas por favor registren su idea \ sesión en el siguiente [formulario](http://eepurl.com/gpYBcL). La fecha limite para ingresar su propuesta es Viernes **10 de Mayo**.
 
 Esperamos que puedan ser parte de este gran proyecto!!
 

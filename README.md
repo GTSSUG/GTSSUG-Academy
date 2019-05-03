@@ -3,9 +3,10 @@
 
 Que tal todos, estamos organizando una serie de sesiones educativas de  en algunas universidades del país. El contenido a desarrollar en dichas sesiones, deber ser relacionados con las siguientes temas:
 
-	* Microsoft Azure \ AWS
-	* SQL Server \ PostgreSQL
-	* DevOps (CI \ CD)
+* Microsoft Azure \ AWS
+* SQL Server \ PostgreSQL
+* DevOps (CI \ CD)
+* Linux \ Open Source Software
 
 El único requisito es cubrir una hora de contenido, enfocado a un nivel didáctico principiante \ medio.
 

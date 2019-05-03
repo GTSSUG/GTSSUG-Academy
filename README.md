@@ -2,14 +2,16 @@
 
 [![N|Solid](http://dbamastery.com/wp-content/uploads/2018/10/LogoSQL.jpg)](https://gtssug.pass.org)
 
-Que tal todos, estamos organizando una serie de sesiones educativas de  en algunas universidades del país. El contenido a desarrollar en dichas sesiones, deber ser relacionados con las siguientes temas:
+GTSSUG Academy es un evento orientado a impartir una serie de sesiones educativas en algunas universidades del país. El contenido a desarrollar en dichas sesiones, esta orientado a los siguientes temas:
 
 * Microsoft Azure \ AWS
 * SQL Server \ PostgreSQL
 * DevOps (CI \ CD)
+* Python \ NodeJS
 * Linux \ Open Source Software
 
-El único requisito es cubrir una hora de contenido, enfocado a un nivel didáctico principiante \ medio.
+El único requisito es cubrir una hora de contenido, enfocado a un nivel didáctico principiante \ medio dado
+que este evento esta orientado a estudiantes de ultimo año de informática o carrera afín.
 
 Si quieren formar parte de esta iniciativa, como voluntarios o conferencistas por favor registren su idea \ sesión en el siguiente [formulario](http://eepurl.com/gpYBcL).
 

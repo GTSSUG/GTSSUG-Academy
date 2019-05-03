@@ -2,7 +2,9 @@
 
 [![N|Solid](http://dbamastery.com/wp-content/uploads/2018/10/LogoSQL.jpg)](https://gtssug.pass.org)
 
-GTSSUG Academy es una iniciativa (_**sin fines de lucro**_) orientada a impartir una serie de sesiones educativas en algunas universidades del país. El contenido a desarrollar en dichas sesiones, esta orientado a los siguientes temas:
+Que tal todos, les queremos compartir nuestra nueva iniciativa llamada: GTSSUG Academy!
+
+Esta nueva iniciativa (_**sin fines de lucro**_) organizada por [GTSSUG](http://gtssug.pass.org) esta orientada a impartir una serie de sesiones educativas en algunas universidades del país. El contenido a desarrollar en dichas sesiones, esta orientado a los siguientes temas:
 
 * Microsoft Azure \ AWS
 * SQL Server \ PostgreSQL

@@ -4,7 +4,7 @@
 
 Que tal todos, les queremos compartir nuestra nueva iniciativa llamada: GTSSUG Academy!
 
-Esta nueva iniciativa (_**sin fines de lucro**_) organizada por [GTSSUG](http://gtssug.pass.org) esta orientada a impartir una serie de sesiones educativas en algunas universidades del país. El contenido a desarrollar en dichas sesiones, esta orientado a los siguientes temas:
+Esta nueva iniciativa (_**sin fines de lucro**_) organizada por [GTSSUG](https://www.facebook.com/groups/gtssug) esta orientada a impartir una serie de sesiones educativas en algunas universidades del país. El contenido a desarrollar en dichas sesiones, esta orientado a los siguientes temas:
 
 * Microsoft Azure \ AWS
 * SQL Server \ PostgreSQL
@@ -23,5 +23,3 @@ Esperamos que puedan ser parte de este gran proyecto!!
 
 # Follow us
 [![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_twitter_circle_color_107170.png)](https://twitter.com/gtssug) [![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_github_circle_black_107161.png)](https://github.com/GTSSUG)[![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_browser_1055104.png)](https://gtssug.pass.org/)
-
-[website]: <https://gtssug.pass.org/>

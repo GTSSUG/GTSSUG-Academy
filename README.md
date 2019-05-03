@@ -1,5 +1,5 @@
 # GTSSUG Academy!
-#GTSSUG/Tour	 
+
 
 Que tal todos, estamos organizando una serie de sesiones educativas de  en algunas universidades del país. El contenido a desarrollar en dichas sesiones, deber ser relacionados con las siguientes temas:
 

@@ -11,8 +11,7 @@ Que tal todos, estamos organizando una serie de sesiones educativas de  en algun
 
 El único requisito es cubrir una hora de contenido, enfocado a un nivel didáctico principiante \ medio.
 
-Si quieren formar parte de esta iniciativa, como voluntarios o conferencistas por favor registren su idea \ sesión en el siguiente formulario:
-
+Si quieren formar parte de esta iniciativa, como voluntarios o conferencistas por favor registren su idea \ sesión en el siguiente [formulario] (http://eepurl.com/giep8z).
 
 Esperamos que puedan ser parte de este gran proyecto!!
 

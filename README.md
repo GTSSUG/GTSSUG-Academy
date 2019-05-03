@@ -9,7 +9,7 @@ Esta nueva iniciativa (_**sin fines de lucro**_) organizada por [GTSSUG](https:/
 * Microsoft Azure \ AWS
 * SQL Server \ PostgreSQL
 * DevOps (CI \ CD)
-* Python \ NodeJS
+* Python \ Node.js
 * Linux \ Open Source Software
 
 El único requisito es cubrir una hora de contenido, considerando que el nivel didáctico debe ser principiante \ medio dado
